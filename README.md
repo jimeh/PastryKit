@@ -1,6 +1,6 @@
 # PastryKit
 
-If you don't know what PastryKit is, you should go read John Gruber's [PastryKit][dfpk] article on [Daring Fireball][df]. In short it's a Javascript framework for iPhone WebApps, which simulates the nice scrolling and navigation in native iPhone apps. It was (presumably) developed by Apple for the [iPhone User Guide][ipug] (set browser user agent to MobileSafari 3.x to view) and good few months ago, but nothing has been officially released or mentioned about PastryKit.
+If you don't know what PastryKit is, you should go read John Gruber's [PastryKit][dfpk] article on [Daring Fireball][df]. In short it's a Javascript framework for iPhone WebApps, which simulates the nice scrolling and navigation in native iPhone apps. It was (presumably) developed by Apple for the [iPhone User Guide][ipug] (set browser user agent to MobileSafari 3.x to view) a good few months ago, but nothing has been officially released or mentioned about PastryKit.
 
 
 ## About PastryKit.git
@@ -12,7 +12,7 @@ I used [jsbeautifier.org][jsb] to reformat the PastryKit source into a more huma
 
 ## Testing
 
-To test PasrtyKit in action, you will need to serve up the repo via HTTP, and open `mobile/index.html`, as it pulls data from the `Contents` folder via Ajax.
+To test PastryKit in action, you will need to serve up the repository via HTTP, and open `mobile/index.html`, as it pulls data from the `Contents` folder via Ajax.
 
 
 ## Forking & Development
