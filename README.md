@@ -17,7 +17,7 @@ To test PasrtyKit in action, you will need to serve up the repo via HTTP, and op
 
 ## Forking & Development
 
-Please feel free to fork and improve/modify PastryKit.git. I will happily merge any improvements back into my repository.
+Please feel free to fork and improve/modify PastryKit.git. I will happily merge any improvements back into my repository. And I should mention that I'm no JavaScript guru myself, so I'm sure there's better people for this job than me :)
 
 
 ## Legal / License
